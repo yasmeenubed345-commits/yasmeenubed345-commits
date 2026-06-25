@@ -4,4 +4,4 @@ I build smart AI assistants and chatbots that qualify real estate leads and book
 
 Tech: Python, OpenAI, Voiceflow, Botpress, Make.com. 
 
-Let's automate your business: email@example.com
+Let's automate your business: yasmeenubed345@gmail.com
